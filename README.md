@@ -1,4 +1,5 @@
-<!--[![DOI](https://zenodo.org/badge/265254045.svg)](https://zenodo.org/doi/10.5281/zenodo.10442485)-->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15692289.svg)](https://doi.org/10.5281/zenodo.15692289)
+
 
 # yan-etal\_2025\_npj\_nh
 
